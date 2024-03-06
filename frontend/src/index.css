@@ -1,0 +1,26 @@
+* {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Lato', sans-serif;
+}
+
+nav a{
+    margin: 10px;
+    font-size: 2rem;
+}
+
+.todo {
+    display: flex;
+}
+
+.todo i {
+    border: 1px solid;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: underline;
+    font-weight: 700;
+    color: blue;
+}
